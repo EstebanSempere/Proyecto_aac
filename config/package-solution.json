@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "accesibilidad-client-side-solution",
+    "id": "419e873f-60dc-4e50-bbab-622e526d05ad",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "accesibilidad description"
+      },
+      "longDescription": {
+        "default": "accesibilidad description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "accesibilidad Feature",
+        "description": "The feature that activates elements of the accesibilidad solution.",
+        "id": "d92fe9fe-d223-44ea-a598-c82e40da9f4e",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/accesibilidad.sppkg"
+  }
+}

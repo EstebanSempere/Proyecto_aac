@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "14.19.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.1",
+    "libraryName": "accesibilidad",
+    "libraryId": "419e873f-60dc-4e50-bbab-622e526d05ad",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "accesibilidad",
+    "solutionShortDescription": "accesibilidad description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
